@@ -79,12 +79,5 @@ namespace Epicode_S5_L1_BackEnd
             EliminaDipendente(dipendenteID);
             Response.Redirect("Default.aspx");
         }
-
-        protected void btnEliminaDipendente1_Click(object sender, EventArgs e)
-        {
-            int dipendenteID = int.Parse(txtDipendenteID.Text);
-            EliminaDipendente(dipendenteID);
-            Response.Redirect("Default.aspx");
-        }
     }
 }

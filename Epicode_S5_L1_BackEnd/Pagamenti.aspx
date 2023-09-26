@@ -28,7 +28,6 @@
         <div class="mx-5">
             <h2>Elimina Dipendente</h2>
             <asp:Button ID="btnEliminaDipendente" runat="server" Text="Elimina Dipendente" OnClick="btnEliminaDipendente_Click" CssClass="btn btn-danger" />
-             <asp:Button ID="btnEliminaDipendente1" runat="server" Text="Elimina Cartella Dipendente" OnClick="btnEliminaDipendente1_Click" CssClass="btn btn-danger" />
         </div>
     </div>
 

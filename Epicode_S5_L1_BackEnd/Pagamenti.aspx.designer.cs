@@ -67,14 +67,5 @@ namespace Epicode_S5_L1_BackEnd
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnEliminaDipendente;
-
-        /// <summary>
-        /// Controllo btnEliminaDipendente1.
-        /// </summary>
-        /// <remarks>
-        /// Campo generato automaticamente.
-        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnEliminaDipendente1;
     }
 }
