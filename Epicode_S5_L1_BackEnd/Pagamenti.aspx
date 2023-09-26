@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Pagamenti.aspx.cs" Inherits="Epicode_S5_L1_BackEnd.Pagamenti" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <div class="d-flex">
         <div>
             <h2>Registra Pagamento</h2>
@@ -30,5 +30,4 @@
             <asp:Button ID="btnEliminaDipendente" runat="server" Text="Elimina Dipendente" OnClick="btnEliminaDipendente_Click" CssClass="btn btn-danger" />
         </div>
     </div>
-
 </asp:Content>
